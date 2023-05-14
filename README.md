@@ -63,4 +63,4 @@ Dans un second temps, le développement de portera sur le développement de la p
 •	développement de services sms etc ….
 
 
-Ce projet est initié par Dr CADIC Philippe (www.github.com/ccadic , www.linkedin.com/in/dr-philippe-cadic-883a15122/ Twitter : @sulfuroid ), ex-fondateur de plusieurs société d’ingéniérie électronique et informatique dans les années 2000, maintenant retiré dans le monde de l’opensource. 
+Ce projet est initié par Dr CADIC Philippe (www.github.com/ccadic , www.linkedin.com/in/dr-philippe-cadic-883a15122/ Twitter : @sulfuroid ), ex-fondateur de plusieurs sociétés d’ingéniérie électronique et informatique dans les années 2000, maintenant retiré dans le monde de l’opensource. 
