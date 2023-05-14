@@ -41,7 +41,7 @@ Il existe des outils de programmation opensource permettant de créer des script
 
 Les cabinets médicaux ou centres de soins sont maintenant, peu ou prou , tous connectés à internet au travers d’une adresse IP fixe ou au pire compatible avec des services de DNS dyamiques . Les NAS synology fournissent d’ailleurs en standard le moyen d’offrir un accès aux patients depuis internet. 
 
-Les box fibre ou ADSM permettent également de rediriger des ports internet vers un NAS sir IP interne.
+Les box fibre ou ADSL permettent également de rediriger des ports internet vers un NAS sir IP interne.
 
 **Calendrier des développements
 **
