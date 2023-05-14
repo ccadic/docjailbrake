@@ -1,7 +1,7 @@
 <?php
 
 // Dr CADIC Philippe
-// DoctoJailbreak
+// DocJailbreak
 
 // Configuration de la connexion à la base de données
 require_once 'config.php';
